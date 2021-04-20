@@ -246,6 +246,7 @@ color: var(--mailcolor);
    text-transform: uppercase;
     font-weight: 700;
     font-size: 14px;
+    padding-top:94px;
     
 }
 
@@ -293,13 +294,9 @@ color: var(--mailcolor);
 }
 /*EndPersonStyle*/
 
-
-
-
-
-/*OurStyle*/
 .container-person-title-h2 {
     padding-bottom: 50px;
+    padding-top:94px;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.167;
@@ -391,13 +388,13 @@ color: var(--mailcolor);
     cursor: pointer;
     padding: 6px 22px;
     margin-right: 8px;
-    border: 1px solid var(--black);
+
 }
 .btn .container {
     display: flex;
     padding-top: 94px;
     justify-content: center;
-    padding-bottom: 50px;
+    padding-bottom: 56px;
 }
 .btn-list-item-btn:hover,
 :focus,
