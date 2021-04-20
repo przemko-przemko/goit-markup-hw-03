@@ -5,8 +5,8 @@
     --gray: #2F303A;
     --outside:#F5F4FA;
     --mailcolor:#757575;
-
 }
+/*global*/
 h1,
 h2,
 h3,
@@ -27,15 +27,12 @@ p {
     margin: 0;
 }
 
-
-/* body style */
-body {
+*{
     font-family: 'Roboto',
         sans-serif;
     color: var(--black);
     
 }
-/*global*/
 .container {
     width: 1200px;
     padding: 0;
@@ -373,6 +370,9 @@ color: var(--mailcolor);
 :active,
 :focus {
     color: var(--black);
+}
+.footer address{
+    color: var(--white);
 }
 
 /*EndFooter*/
