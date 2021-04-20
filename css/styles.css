@@ -98,6 +98,9 @@ img {
     font-size: 14px;
     
 }
+.header-list-item-mailtel-mail{
+    margin-left: auto;
+}
 .header-list-item-mailtel-mail,
 .header-list-item-mailtel-tel{
 color: var(--mailcolor);
